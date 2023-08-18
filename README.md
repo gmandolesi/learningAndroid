@@ -22,3 +22,14 @@ Repo based on the course "The Complete Android 14 Developer Course": https://www
 
 ![image](https://github.com/gmandolesi/learningAndroid/assets/12930390/b1a0956a-0384-47a1-97c8-0248ceb605fa)
 
+
+
+## 003_MassConverter
+* Purpose: Convert from kg to pounds using 2.2 as conversion rate
+* Use case:
+    * User inserts the mass in kg
+    * User clicks the "Convert to pounds" button
+    * The app displays the mass in pounds
+
+
+![image](https://github.com/gmandolesi/learningAndroid/assets/12930390/ffe0f3e7-1c3a-4ac8-8130-3fde01b12355)
