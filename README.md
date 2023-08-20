@@ -33,3 +33,17 @@ Repo based on the course "The Complete Android 14 Developer Course": https://www
 
 
 ![image](https://github.com/gmandolesi/learningAndroid/assets/12930390/ffe0f3e7-1c3a-4ac8-8130-3fde01b12355)
+
+
+
+## 004_LuckyNumber
+* Purpose: Generate a Lucky Number to be shared via social media
+* Use case:
+    * User writes their name
+    * User clicks the "Wish me Luck!" button
+    * The app displays the lucky number, with a different background (different activity)
+    * User clicks the "Share My Luck!" button
+    * User selects through which social media they would like to share the results
+
+
+![image](https://github.com/gmandolesi/learningAndroid/assets/12930390/c20ee2a3-abd8-4516-97e9-f150d90008b4)
