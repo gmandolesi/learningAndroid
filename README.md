@@ -57,4 +57,6 @@ Repo based on the course "The Complete Android 14 Developer Course": https://www
     * The app plays the color name in French
 
 
-![image](https://github.com/gmandolesi/learningAndroid/assets/12930390/221417a8-4ab0-4612-814f-3a33a0fc7d32)
+<img width="400" alt="image" src="https://github.com/gmandolesi/learningAndroid/assets/12930390/a703f010-2e77-4a9c-b722-ca350116daa0">
+
+
