@@ -73,3 +73,14 @@ Repo based on the course "The Complete Android 14 Developer Course": https://www
 ![image](https://github.com/gmandolesi/learningAndroid/assets/12930390/2010d26a-76f2-47ee-adc9-7527f0eb465c)
 
 
+
+## 007_WorldCupApp
+* Purpose: Scroll through a list of nations with their flag and number of wins in the World Cup
+* Use case:
+    * User scrolls down to see the listed nations
+    * The app displays the nation name, flag and number of World Cup wins
+    * User clicks on one country
+    * The app shows a message on the bottom "[Country Name] won the Wolrd Cup xx times", where xx is the number of World Cup wins
+
+
+![image](https://github.com/gmandolesi/learningAndroid/assets/12930390/bbbbc9b6-9ecf-4d9c-b4f7-09bf6a31a8d5)
