@@ -24,7 +24,7 @@ Repo based on the course "The Complete Android 14 Developer Course": https://www
 
 
 
-## 003_MassConverter
+## 003_MassConverterApp
 * Purpose: Convert from kg to pounds using 2.2 as conversion rate
 * Use case:
     * User inserts the mass in kg
@@ -36,7 +36,7 @@ Repo based on the course "The Complete Android 14 Developer Course": https://www
 
 
 
-## 004_LuckyNumber
+## 004_LuckyNumberApp
 * Purpose: Generate a Lucky Number to be shared via social media
 * Use case:
     * User writes their name
