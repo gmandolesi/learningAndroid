@@ -60,3 +60,16 @@ Repo based on the course "The Complete Android 14 Developer Course": https://www
 <img width="400" alt="image" src="https://github.com/gmandolesi/learningAndroid/assets/12930390/a703f010-2e77-4a9c-b722-ca350116daa0">
 
 
+
+## 006_PlanetsApp
+* Purpose: Scroll through a list of planets with their picture and number of moons
+* Use case:
+    * User scrolls down to see the nine planets (including dwarf planet Pluto)
+    * The app displays the planet name, image and number of Moons
+    * User clicks on one planet
+    * The app shows a message on the bottom "Planet Name: " and the name of the planet the user clicked
+
+
+![image](https://github.com/gmandolesi/learningAndroid/assets/12930390/2010d26a-76f2-47ee-adc9-7527f0eb465c)
+
+
