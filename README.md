@@ -47,3 +47,14 @@ Repo based on the course "The Complete Android 14 Developer Course": https://www
 
 
 ![image](https://github.com/gmandolesi/learningAndroid/assets/12930390/c20ee2a3-abd8-4516-97e9-f150d90008b4)
+
+
+
+## 005_FrenchApp
+* Purpose: Hear the colors in French
+* Use case:
+    * User clicks a color
+    * The app plays the color name in French
+
+
+![image](https://github.com/gmandolesi/learningAndroid/assets/12930390/221417a8-4ab0-4612-814f-3a33a0fc7d32)
